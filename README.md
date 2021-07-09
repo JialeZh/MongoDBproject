@@ -1,6 +1,6 @@
 # Pantry Management Application Built with Vue and MongoDB
 How to Start Backend Server
-1.	Open “server” folder with Visual Studio Code
+1.	Open “server” folder with IDE
 2.	Open new Terminal
 3.	Type “npm install” in the Terminal
 4.	Type “node server.js” to start the server
@@ -11,7 +11,7 @@ To add base data collection:
 4.	Import “sampledata.json” into the pantrys collection
 
 How to Start Frontend Application
-1.	Open “PantryApp” folder with Visual Studio Code
+1.	Open “PantryApp” folder with IDE
 2.	Open new Terminal
 3.	Type “npm install” in the Terminal
 4.	Type “npm run dev” to start the server
@@ -23,6 +23,7 @@ Backend Server Dependencies
 8.	Express
 9.	Mongoose
 10.	Nodemon
+11.	
 Frontend App Dependencies
 1.	Axios
 2.	Vue
