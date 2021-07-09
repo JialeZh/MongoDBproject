@@ -11,6 +11,7 @@ How to Start Backend Server
 2.	Open new Terminal
 3.	Type “npm install” in the Terminal
 4.	Type “node server.js” to start the server
+
 To add base data collection:
 1.	Use MongoDBCompass or Robo3t to connect to 127.0.0.1:27017
 2.	Create a MongoDB database named “Pantrydb”
