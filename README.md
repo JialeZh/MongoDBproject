@@ -15,7 +15,6 @@ How to Start Frontend Application
 2.	Open new Terminal
 3.	Type “npm install” in the Terminal
 4.	Type “npm run dev” to start the server
-5.	Open http://localhost:8080/ in any web broswer for the application
 
 Backend Server Dependencies
 6.	Body-parser
@@ -23,7 +22,7 @@ Backend Server Dependencies
 8.	Express
 9.	Mongoose
 10.	Nodemon
-11.	
+
 Frontend App Dependencies
 1.	Axios
 2.	Vue
