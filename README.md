@@ -17,6 +17,7 @@ How to Start Frontend Application
 4.	Type “npm run dev” to start the server
 
 Backend Server Dependencies
+
 6.	Body-parser
 7.	Cors
 8.	Express
