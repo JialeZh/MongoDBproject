@@ -16,6 +16,14 @@ How to Start Frontend Application
 3.	Type “npm install” in the Terminal
 4.	Type “npm run dev” to start the server
 
+Frontend App Dependencies
+1.	Axios
+2.	Vue
+3.	Vue-router
+4.	Babel
+5.	Express
+
+
 Backend Server Dependencies
 
 6.	Body-parser
@@ -24,9 +32,4 @@ Backend Server Dependencies
 9.	Mongoose
 10.	Nodemon
 
-Frontend App Dependencies
-1.	Axios
-2.	Vue
-3.	Vue-router
-4.	Babel
-5.	Express
+
