@@ -1,4 +1,4 @@
-# Pantry Management Application Built with Vue and MongoDB
+# Full-Stack Pantry Management Application Built with MongoDB, Express, Vue, and Node
 
 How to Start Frontend Application
 1.	Open “PantryApp” folder with IDE
