@@ -1,4 +1,3 @@
-# hotel
 
 > A Vue.js project
 
